@@ -1,10 +1,10 @@
-# Quality of Life Plus at UT San Antonio
+# Project S.E.R.V.E. at UT San Antonio
 
-Hi everyone! Quality of Life Plus's mission is to **benefit our community** through the design and development of **assistive medical technologies.** 
+Hi everyone!Project S.E.R.V.E.'s mission is to **benefit our community** through the design and development of **assistive medical technologies.** 
 
 We connect passionate, inventive **students with opportunities** to **support our disabled community members**. We work for a future in which **anyone can live with the highest quality of life**, regardless of medical limitations.
 
-Below you will find a **list of all of Quality of Life Plus' projects** throughout the years! We hope these showcase the **capabilities of our organization** and the **potential each new project can bring!**
+Below you will find a **list of all of Project S.E.R.V.E.'s projects** throughout the years! We hope these showcase the **capabilities of our organization** and the **potential each new project can bring!**
 
 ---
 
@@ -26,5 +26,5 @@ __**Corozon Clinic Walker Repair**__
 __**TLens**__ - [Project's Documentation](https://github.com/arturo-j-martinez-ii/tlens)
 - Developed an open-source transcription device that doesn't require Wi-Fi or a cellular device for a deaf and visually impaired veteran and anyone to use anywhere in the world
 
-__**Sensor Team**__ - [Project’s Documentation](https://github.com/qlplus-utsa/wearablesensor)
+__**Sensor Team**__ - [Project’s Documentation](https://github.com/projectserve-utsa/wearablesensor)
 - Created a device under $30 to measure and display user’s heartrate and average heartrate with over 95% accuracy
