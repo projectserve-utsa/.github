@@ -1,6 +1,6 @@
 # Project S.E.R.V.E. at UT San Antonio
 
-Hi everyone!Project S.E.R.V.E.'s mission is to **benefit our community** through the design and development of **assistive medical technologies.** 
+Hi everyone! Project S.E.R.V.E.'s mission is to **benefit our community** through the design and development of **assistive medical technologies.** 
 
 We connect passionate, inventive **students with opportunities** to **support our disabled community members**. We work for a future in which **anyone can live with the highest quality of life**, regardless of medical limitations.
 
