@@ -41,8 +41,8 @@ __**SafeZone**__ - [Project’s Documentation](https://github.com/projectserve-u
 __**Stimulation Cuff**__ - [Project’s Documentation](https://github.com/projectserve-utsa/)
 - Developing a wearable cuff to provide an alternative sensory stimulus through compression, vibration, and audio for patients within an Applied Behavioral Analysis (ABA) setting who exhibit self-ingenious behavior (SIB)
 
-__**Ramp/Lift**__ - [Project’s Documentation](https://github.com/projectserve-utsa/)
+__**Ramp/Lift**__ - [Project’s Documentation](https://github.com/projectserve-utsa/rampteam)
 - Designing a Ramp/Lift for a 76 year old veteran who has fallen while attempting to get out of their camper
 
-__**Cooling Sleeve - 2027 National Design Competition**__ - [Project’s Documentation](https://github.com/projectserve-utsa/)
+__**Cooling Sleeve - 2027 National Design Competition**__ - [Project’s Documentation](https://github.com/projectserve-utsa/ndc2027)
 - Designing a comfortable, moisture-wicking cooling sleeve for an injured veteran’s residual limb 
